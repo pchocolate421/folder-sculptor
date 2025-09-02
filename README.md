@@ -1,4 +1,3 @@
-```markdown
 # Folder Sculptor 🗂️
 
 **Folder Sculptor** is a Python utility that organizes messy directories by sorting files into folders based on their extensions and grouping all subfolders into a single `folder/` directory.
