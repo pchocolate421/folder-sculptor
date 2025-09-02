@@ -38,14 +38,3 @@ This will:
 
 ## License
 MIT License
-```
-
----
-
-### 📜 `requirements.txt`
-
-```txt
-```
-
-No external dependencies needed
-Python 3.6+.
